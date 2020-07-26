@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">projeto Coursera</string>
+    <string name="bienvenidos_a_mi_primer_proyecto">¡Bem vindo ao meu primeiro projeto!</string>
+    <string name="inicio">Comecar</string>
+</resources>

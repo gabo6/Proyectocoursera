@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">1er Proyecto Coursera</string>
+    <string name="bienvenidos_a_mi_primer_proyecto">¡Bienvenidos a mi primer proyecto!</string>
+    <string name="inicio">Inicio</string>
+</resources>
